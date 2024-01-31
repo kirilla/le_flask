@@ -20,7 +20,7 @@ Bottoms up. It's educational.
 
 ## Usage
 * Start the server by running __python3 server.py__
-* Keep the server running the foreground. (No ctrl-z or "&".)
+* Keep the server running in the foreground. (No ctrl-z or "&".)
 * Run the test script in another Terminal, by typing __./test.sh__
 * Behold the output.
 
