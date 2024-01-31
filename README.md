@@ -1,9 +1,14 @@
 # le_flask
 
-Clone this guy.
+Bottoms up.
 
 ## Install
-* pip3 install Flask
-* pip3 install flask-swagger-ui
-
-  
+* clone this guy
+* cd into the top folder 
+* pip3 install . --user
+* chmod +x list_books
+* chmod +x get_book
+* chmod +x create_book
+* chmod +x update_book
+* chmod +x delete_book
+* chmod +x setup.sh
