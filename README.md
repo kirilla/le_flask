@@ -1,6 +1,6 @@
 # le_flask
 
-Bottoms up.
+Bottoms up. It's educational.
 
 ## Requirements
 * Python3
