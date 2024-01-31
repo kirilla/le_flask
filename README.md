@@ -5,7 +5,8 @@ Bottoms up.
 ## Install
 * clone this guy
 * cd into the top folder 
-* pip3 install . --user
+* pip3 install Flask
+* pip3 install flask-swagger-ui
 * chmod +x list_books
 * chmod +x get_book
 * chmod +x create_book
