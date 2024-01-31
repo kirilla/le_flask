@@ -20,7 +20,8 @@ Bottoms up. It's educational.
 
 ## Usage
 * Start the server by running __python3 server.py__
-* Run the test script in a shell or Terminal, by typing __./test.sh__
+* Keep the server running the foreground. (No ctrl-z or "&".)
+* Run the test script in another Terminal, by typing __./test.sh__
 * Behold the output.
 
 Or run the commands individually:
