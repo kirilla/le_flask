@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "le_flask"
+version = "1.0.0"
+description = ""
+authors = [
+	{ name = "Jonas Sundstrom", email = "jonas@kirilla.se" }
+]
+license = { file = "LICENSE" }
+dependencies = [
+  "Flask"
+  "flask-swagger-ui"
+] 
+classifiers = [
+	# classifiers?
+]
+
+[project.entry-points.console_scripts]
+server = "server.main:main"
